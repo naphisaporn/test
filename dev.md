@@ -38,3 +38,13 @@
 ## การติด tag ตรงตำแหน่งต่างๆ 1,2,3
 - git tag -d ชื่อ: ลบ tag
 
+## ซ่อนข้อมูล
+- git add .
+- git stash
+- git pull
+- git stash pop
+- git add .
+- git commit -m ""
+- git push origin master
+
+
